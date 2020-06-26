@@ -7,4 +7,4 @@ def index():
     return 'Hello world Prasad'
 
 if __name__ == '__main__':
-    app.run(debug=True, host='localhost')
+    app.run()
